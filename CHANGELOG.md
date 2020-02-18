@@ -4,6 +4,22 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/monitoring?activeTab=versions
 
+## [2.0.0](https://www.github.com/googleapis/nodejs-monitoring/compare/v1.7.0...v2.0.0) (2020-02-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* monitoring convert to typescript (#360)
+
+### Features
+
+* monitoring convert to typescript ([#360](https://www.github.com/googleapis/nodejs-monitoring/issues/360)) ([5bbd963](https://www.github.com/googleapis/nodejs-monitoring/commit/5bbd96307cc47066b00048e494bfa566ea58650d))
+
+
+### Bug Fixes
+
+* updated proto files with new proto annotations ([cf8cc77](https://www.github.com/googleapis/nodejs-monitoring/commit/cf8cc770ec5fa17874fd67df1469ffa3b2724628))
+
 ## [1.7.0](https://www.github.com/googleapis/nodejs-monitoring/compare/v1.6.1...v1.7.0) (2019-12-31)
 
 
